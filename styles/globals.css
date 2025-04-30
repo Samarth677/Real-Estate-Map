@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(to bottom right, #f0f4f8, #d9e9f7);
+}
+h1 {
+  font-weight: 600;
+  color: #222;
+  margin: 20px 0;
+}
+
+button {
+  text-transform: none;
+}
